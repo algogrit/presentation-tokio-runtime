@@ -217,6 +217,14 @@ class: center, middle
 ## I/O
 
 ---
+
+### Related
+
+- [Mio](https://github.com/tokio-rs/mio)
+
+- [Bytes](https://github.com/tokio-rs/bytes)
+
+---
 class: center, middle
 
 `use tokio::io::{self, AsyncReadExt, AsyncWriteExt};`
